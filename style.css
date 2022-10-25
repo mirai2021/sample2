@@ -471,8 +471,8 @@ main {
 #recommendation {
   position: relative;
   margin-top: 80px;
-  background: url(/images/icon-rainbow@2x.png), -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#F1FBFF));
-  background: url(/images/icon-rainbow@2x.png), linear-gradient(180deg, #FFF, #F1FBFF);
+  background: url(images/icon-rainbow@2x.png), -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#F1FBFF));
+  background: url(images/icon-rainbow@2x.png), linear-gradient(180deg, #FFF, #F1FBFF);
   background-repeat: no-repeat;
   background-position: right top;
   background-size: 135%;
@@ -630,7 +630,7 @@ main {
 }
 
 .parallax-bg {
-  background-image: url(/images/bg-img@2x.png);
+  background-image: url(images/bg-img@2x.png);
   background-attachment: fixed;
   background-size: cover;
   background-position: top left;
@@ -920,7 +920,7 @@ main {
 }
 .store-btn a::after {
   content: "";
-  background-image: url(/images/external-link-alt-solid.png);
+  background-image: url(images/external-link-alt-solid.png);
   color: #fff;
   width: 13.29px;
   height: 13.29px;
