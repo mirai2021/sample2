@@ -161,8 +161,8 @@ img {
   }
 }
 #header {
-/*   background-image: url(images/repeatgrid\ 1@2x.png); */
-    background-image: url(images/repeatgrid 1@2x.png);
+  background-image: url(images/repeatgrid\ 1@2x.png);
+/*     background-image: url(images/repeatgrid 1@2x.png); */
   
   background-position: center center;
   background-size: cover;
