@@ -663,9 +663,9 @@ main {
     top: 50px;
   }
 }
-.pass-img1 img {
+/* .pass-img1 img {
   border: 1px solid #333;
-}
+} */
 
 .pass-img2 {
   position: relative;
