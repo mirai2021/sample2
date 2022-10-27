@@ -1,4 +1,10 @@
 @charset "UTF-8";
+
+html {
+  overflow-x: hidden;
+}
+
+
 body {
   color: #333;
   font-family: "A1 Gothic R","Zen Kaku Gothic New","Yu Gothic","Hiragino Sans",Meiryo,"MS PGothic",sans-serif;
