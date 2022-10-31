@@ -686,6 +686,12 @@ main {
   background-color: transparent; /*背景色を透明化する*/
   z-index: 200;
 }
+
+@media screen and (max-width: 767px) {
+  .pass-img2 {
+    top: -70px;
+  }
+}
 @media screen and (max-width: 390px) {
   .pass-img2 {
     top: -70px;
