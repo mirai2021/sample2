@@ -665,6 +665,12 @@ main {
   top: 120px;
   z-index: 200;
 }
+@media screen and (max-width: 767px) {
+  .pass-img1 {
+    top: 70px;
+  }
+}
+
 @media screen and (max-width: 390px) {
   .pass-img1 {
     top: 50px;
