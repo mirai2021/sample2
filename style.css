@@ -711,7 +711,7 @@ main {
   left: 360px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1200px) {
   .explanation-text {
    width: 70%;
   top: 30%;
