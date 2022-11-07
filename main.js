@@ -16,7 +16,7 @@ $(function() {
         settings: {
           dots:true,
           centerMode: true,// 前後スライドを部分表示
-          centerPadding: '15%',// 両端の見切れるスライド幅
+          centerPadding: '10%',// 両端の見切れるスライド幅
           slidesToShow: 1,
         },
       },
